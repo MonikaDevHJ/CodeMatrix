@@ -60,8 +60,9 @@ export default function PersonalDetailsForm() {
                 Personal details
               </h1>
               <p className="text-purple-100 text-sm sm:text-base">
-                Update your information and find out how it's used.
+                Update your information and find out how it&apos;s used.
               </p>
+
             </div>
             <button className="bg-purple-500 hover:bg-purple-400 px-4 py-2 rounded-lg text-sm font-medium transition-colors">
               Upload Cover Photo
